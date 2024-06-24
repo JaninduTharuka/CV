@@ -1,0 +1,51 @@
+/* Tag Selectors */
+
+body {
+    font-family: 'Marcellus', serif;
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Beau Rivage', cursive;
+    font-size: 6rem;
+    margin-bottom: 0;
+}
+
+h2 {
+    font-family: 'Barlow', sans-serif;
+    font-size: 1.5em;
+}
+
+h3 {
+    font-family: 'Barlow', sans-serif;
+}
+
+.cse {
+    font-size: 120%;
+}
+
+.topcontainer {
+    background-color: #F3EEEA;
+    padding-top: 110px;
+    position: relative;
+}
+
+.topcloud {
+    position: absolute;
+    right: 27%;
+    top: 15%;
+}
+.bottomcloud {
+    position: absolute;
+    left: 25%;
+    bottom: 40%;
+}
+
+.middlecontainer {
+
+}
+
+.bottomcontainer {
+
+}
