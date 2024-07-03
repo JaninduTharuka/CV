@@ -63,7 +63,7 @@ a:hover {
 }
 
 .TextBox {
-    margin-top: 14vh;
+    margin-top: 12vh;
 }
 
 .largeText {
@@ -173,6 +173,8 @@ a:hover {
     color: #04202e;
     font-weight: 700;
  }
+
+ .button::after {
 
 
 .bottom-container {
