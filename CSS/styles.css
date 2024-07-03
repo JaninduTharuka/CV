@@ -174,11 +174,9 @@ a:hover {
     font-weight: 700;
  }
 
- .button::after {
-
 
 .bottom-container {
     background-color: #73aecd;
     padding-top: 30px;
-    padding-bottom: 30px;
+    padding-bottom: 3px;
 }
